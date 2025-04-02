@@ -1,0 +1,93 @@
+[
+  {
+    "timestamp": "2023-05-15T08:30:00Z",
+    "eventType": "Ignition On",
+    "vehicleId": "CAR1",
+    "location": { "latitude": 34.052235, "longitude": -118.243683 },
+    "speed": 0,
+    "fuelLevel": 85,
+    "batteryStatus": "Charging",
+    "batteryLevel": 95,
+    "odometer": 12345,
+    "engineTemp": 75,
+    "tirePressure": { "frontLeft": 32, "frontRight": 32, "rearLeft": 30, "rearRight": 31 }
+  },
+  {
+    "timestamp": "2023-05-15T08:35:00Z",
+    "eventType": "Time Interval",
+    "vehicleId": "CAR2",
+    "location": { "latitude": 34.053235, "longitude": -118.244683 },
+    "speed": 30,
+    "fuelLevel": 84,
+    "batteryStatus": "Discharging",
+    "batteryLevel": 90,
+    "odometer": 12348,
+    "engineTemp": 85,
+    "tirePressure": { "frontLeft": 32, "frontRight": 32, "rearLeft": 30, "rearRight": 31 }
+  },
+  {
+    "timestamp": "2023-05-15T09:15:00Z",
+    "eventType": "Ignition Off",
+    "vehicleId": "CAR3",
+    "location": { "latitude": 34.062235, "longitude": -118.253683 },
+    "speed": 0,
+    "fuelLevel": 80,
+    "batteryStatus": "Idle",
+    "batteryLevel": 88,
+    "odometer": 12365,
+    "engineTemp": 65,
+    "tirePressure": { "frontLeft": 31, "frontRight": 32, "rearLeft": 30, "rearRight": 30 }
+  },
+  {
+    "timestamp": "2023-05-15T10:00:00Z",
+    "eventType": "Time Interval",
+    "vehicleId": "CAR4",
+    "location": { "latitude": 40.712776, "longitude": -74.005974 },
+    "speed": 120,
+    "fuelLevel": 60,
+    "batteryStatus": "Discharging",
+    "batteryLevel": 75,
+    "odometer": 20567,
+    "engineTemp": 95,
+    "tirePressure": { "frontLeft": 35, "frontRight": 34, "rearLeft": 32, "rearRight": 33 }
+  },
+  {
+    "timestamp": "2023-05-15T10:30:00Z",
+    "eventType": "Time Interval",
+    "vehicleId": "CAR5",
+    "location": { "latitude": 37.774929, "longitude": -122.419418 },
+    "speed": 45,
+    "fuelLevel": 10,
+    "batteryStatus": "Idle",
+    "batteryLevel": 50,
+    "odometer": 15890,
+    "engineTemp": 70,
+    "tirePressure": { "frontLeft": 30, "frontRight": 31, "rearLeft": 29, "rearRight": 30 }
+  },
+  {
+    "timestamp": "2023-05-15T11:00:00Z",
+    "eventType": "Ignition On",
+    "vehicleId": "CAR6",
+    "location": { "latitude": 51.507351, "longitude": -0.127758 },
+    "speed": 0,
+    "fuelLevel": 78,
+    "batteryStatus": "Charging",
+    "batteryLevel": 97,
+    "odometer": 13000,
+    "engineTemp": 72,
+    "tirePressure": { "frontLeft": 33, "frontRight": 34, "rearLeft": 32, "rearRight": 32 }
+  },
+  {
+    "timestamp": "2023-05-15T11:30:00Z",
+    "eventType": "Ignition Off",
+    "vehicleId": "CAR7",
+    "location": { "latitude": 48.856613, "longitude": 2.352222 },
+    "speed": 0,
+    "fuelLevel": 65,
+    "batteryStatus": "Idle",
+    "batteryLevel": 85,
+    "odometer": 15020,
+    "engineTemp": 68,
+    "tirePressure": { "frontLeft": 32, "frontRight": 32, "rearLeft": 30, "rearRight": 31 }
+  }
+]
